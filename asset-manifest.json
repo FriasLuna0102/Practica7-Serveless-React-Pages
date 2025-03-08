@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Practica7-Serveless-React-Pages/react_frontend/static/css/main.879a756d.css",
-    "main.js": "/Practica7-Serveless-React-Pages/react_frontend/static/js/main.81adec84.js",
-    "static/js/453.dc73245c.chunk.js": "/Practica7-Serveless-React-Pages/react_frontend/static/js/453.dc73245c.chunk.js",
-    "index.html": "/Practica7-Serveless-React-Pages/react_frontend/index.html",
-    "main.879a756d.css.map": "/Practica7-Serveless-React-Pages/react_frontend/static/css/main.879a756d.css.map",
-    "main.81adec84.js.map": "/Practica7-Serveless-React-Pages/react_frontend/static/js/main.81adec84.js.map",
-    "453.dc73245c.chunk.js.map": "/Practica7-Serveless-React-Pages/react_frontend/static/js/453.dc73245c.chunk.js.map"
+    "main.css": "/Practica7-Serveless-React-Pages/static/css/main.879a756d.css",
+    "main.js": "/Practica7-Serveless-React-Pages/static/js/main.d9ad527d.js",
+    "static/js/453.dc73245c.chunk.js": "/Practica7-Serveless-React-Pages/static/js/453.dc73245c.chunk.js",
+    "index.html": "/Practica7-Serveless-React-Pages/index.html",
+    "main.879a756d.css.map": "/Practica7-Serveless-React-Pages/static/css/main.879a756d.css.map",
+    "main.d9ad527d.js.map": "/Practica7-Serveless-React-Pages/static/js/main.d9ad527d.js.map",
+    "453.dc73245c.chunk.js.map": "/Practica7-Serveless-React-Pages/static/js/453.dc73245c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.879a756d.css",
-    "static/js/main.81adec84.js"
+    "static/js/main.d9ad527d.js"
   ]
 }
